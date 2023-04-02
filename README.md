@@ -19,3 +19,4 @@ node app.js
 * nvm (0.39.3) installed through zsh 
 * .nvmrc (18.15.0) and .terraform-version (1.4.4) files manage those parts 
 * cdktf (0.15.5) initialized in infrastructure/ and using docker provider 6.0.1
+* git config setup initially as my old howtoadhd.com user and swapping to my wick02 user
